@@ -1,0 +1,20 @@
+{
+	"configName": "VOLTA POR CIMA RODAPE PROLOGO",
+	"exemple": "NO CAPÍTULO\nANTERIOR",
+	"tip": "digite o texto em 1 ou MAIS linhas.\n\nuse 1 linha vazia para criar mais de 1 versão do mesmo template.",
+	"compName": "RDP - NO CAPITULO ANTERIOR",
+	"prefix": "CRT",
+	"refTime": 2.002002002002,
+	"separator": "---",
+	"textCase": "upperCase",
+	"inputLayers": [
+		{
+			"layerIndex": 2,
+			"method": "textContent"
+		}
+	],
+	"importPath": "~/Downloads",
+	"outputPath": [
+		"//10.228.183.174/edit_in_place/PROMO/cdesign_output/C# ABERTA & INTER/ARTE RJ/NOVELAS/VOLTA POR CIMA/PROLOGO"
+	]
+}
