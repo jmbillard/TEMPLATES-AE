@@ -52,10 +52,10 @@ if (logoArray != null) {
 
 			var newOutputFile = new File(
 				outputPathArray[o] +
-					'/PATROCINADORES FUT 2024_' +
+					'/PATROCINADORES FUT 2025_' +
 					date +
 					'.[fileextension]',
-			); // -> PATROCINADORES FUT 2024_11-06 a 16-06
+			); // -> PATROCINADORES FUT 2025_11-06 a 16-06
 			newOutputsArray[t].file = newOutputFile;
 		}
 
@@ -70,8 +70,8 @@ if (logoArray != null) {
 	// Tenta salvar o projeto em um caminho de rede específico.
 	try {
 		var savePath =
-			'//10.228.183.165/vfx/imagem/drive_l/Fileserver_3/ESPORTES/FUTEBOL/FUTEBOL 2024/CHAMADA PATROCINADORES 2024';
-		var projId = 'PATROCINADORES FUT 2024_' + date;
+			'//10.228.183.165/vfx/imagem/drive_l/Fileserver_3/ESPORTES/FUTEBOL/FUTEBOL 2025/CHAMADA PATROCINADORES 2025';
+		var projId = 'PATROCINADORES FUT 2025_' + date;
 
 		projFile = new File(savePath + '/01 PROJETOS/' + projId);
 		app.project.save(projFile);

@@ -1,0 +1,24 @@
+{
+	"configName": "CONFRONTO JUNGLE FIGHT",
+	"exemple": "RAIMUNDO_MARAJÓ X VITOR_COSTA\n---\nPARÁ X ESPÍRITO SANTO",
+	"tip": "digite em ordem:\n\nluatador 1 x luatador 2\n---\nbandeira 1 x bandeira 2\n\nuse '_' no nome do lutador para adicionar uma quebra de linha\n\no nome da bandeira será o nome do estado ou pais do lutador.",
+	"compName": "CONFRONTO BANDEIRA FOTO NOME",
+	"prefix": "CONFRONTO",
+	"refTime": 2,
+	"separator": "---",
+	"textCase": "upperCase",
+	"inputLayers": [
+		{
+			"layerIndex": 2,
+			"method": "textContent"
+		},
+		{
+			"layerIndex": 4,
+			"method": "layerName"
+		}
+	],
+	"importPath": "//cpp-ml-hp.servicos.corp.tvglobo.com.br/PROMO_REDE/CPP_JB_PROMO/#INGEST/EMISSORA/ESPORTE/JUNGLE FIGHT",
+	"outputPath": [
+		"//vfx-ml-hp.servicos.corp.tvglobo.com.br/EDIT_IN_PLACE/PROMO/cdesign_output/C# ABERTA & INTER/ARTE RJ/ESPORTES/JUNGLE FIGHT/_CONFRONTOS"
+	]
+}

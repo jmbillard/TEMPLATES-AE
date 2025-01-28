@@ -1,0 +1,21 @@
+{
+	"configName": "JORNALISMO SP TARJA INFO",
+	"exemple": "DIA DAS\nCRIANÇAS",
+	"tip": "digite o texto em 1 ou 2 linhas.\n\nuse 1 linha vazia para separar mais de 1 versão do mesmo template selecionado.\n\nuse os controles nos efeitos do layer 'ctrl'.",
+
+	"compName": "RDP - INFO TEMPLATE",
+	"prefix": "RDP",
+	"refTime": 2,
+	"separator": "\n",
+	"textCase": "upperCase",
+	"inputLayers": [
+		{"layerIndex": 3, "method": "textContent"},
+		{"layerIndex": 5, "method": "textContent"}
+	],
+	"inputFx": {"layerIndex": 1, "fxName": "layout", "optionIndex": 1, "options": ["E","D"]},
+
+	"outputPath": [
+		"//vfx-ml-hp.servicos.corp.tvglobo.com.br/EDIT_IN_PLACE/PROMO/cdesign_output/C# ABERTA & INTER/ARTE SP/JORNALISMO LOCAL"
+	],
+	"alpha": true
+}

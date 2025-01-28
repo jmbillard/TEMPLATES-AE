@@ -1,16 +1,16 @@
 {
-	"configName": "INTEGRADA PATROCINADORES FUTEBOL 2024",
+	"configName": "INTEGRADA PATROCINADORES FUTEBOL",
 	"exemple": "08/06 A 14/06",
 	"tip": "digite o período de vigência da chamada.\n\napos clicar no botão 'criar' selecione as imagens dos patrocinadores.\n\nuse os controles nos efeitos dos layers de cada patrocinador.",
-	"compName": "PATROCINADORES FUT 2024",
+	"compName": "PATROCINADORES FUT",
 	"prefix": "ignore",
 	"refTime": 2,
 	"separator": "---",
 	"textCase": "upperCase",
 	"inputLayers": [],
-	"importPath": "~/Downloads",
+	"importPath": "//vfx-ml-hp.servicos.corp.tvglobo.com.br/vfx/imagem/drive_l/Fileserver_3/ESPORTES/FUTEBOL/FUTEBOL 2025/CHAMADA PATROCINADORES 2025/02 ARQUIVOS",
 	"outputPath": [
-		"~/Desktop",
-		"~/Desktop/teste 1"
+		"//vfx-ml-hp.servicos.corp.tvglobo.com.br/vfx/imagem/drive_l/Fileserver_3/ESPORTES/FUTEBOL/FUTEBOL 2025/CHAMADA PATROCINADORES 2025/SAIDAS",
+		"//vfx-ml-hp.servicos.corp.tvglobo.com.br/EDIT_IN_PLACE/PROMO/cdesign_output/C# ABERTA & INTER/ARTE RJ/ESPORTES/FUTEBOL/PATROCINIO/PATROCINIO 2025"
 	]
 }

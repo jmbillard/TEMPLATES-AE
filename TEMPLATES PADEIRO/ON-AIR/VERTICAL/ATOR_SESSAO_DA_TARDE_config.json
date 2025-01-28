@@ -1,0 +1,21 @@
+{
+	"configName": "ATOR_SESSAO_DA_TARDE",
+	"exemple": "NOME\nSOBRENOME",
+	"tip": "digite o texto em 1, 2 ou 3 linhas para o título e subtítulo.\n\nuse 1 linha com '---' para separar título e subtítulo.\n\nuse 1 linha vazia para separar mais de 1 versão do mesmo template selecionado.",
+
+	"compName": "NOME ATOR align bottom",
+	"prefix": "RDP",
+	"refTime": 0.9009009009009,
+	"separator": "---",
+	"textCase": "upperCase",
+	"inputLayers": [
+		{
+			"layerIndex": 1,
+			"method": "textContent"
+		}
+	],
+	"importPath": "~/Downloads",
+	"outputPath": [
+		"//vfx-ml-hp/EDIT_IN_PLACE/PROMO/cdesign_output/C# ABERTA & INTER/ARTE RJ/FILMES/SESSOES DE CINEMA/S TARDE ONAIR/ATORES"
+	]
+}
